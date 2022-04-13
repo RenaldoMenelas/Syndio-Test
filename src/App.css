@@ -1,0 +1,136 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing:border-box;
+  
+}
+
+.Syndio-logo {
+  height: 40px;
+  
+}
+
+
+.header {
+  
+  background-color: #373737;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  padding-left: 24px;
+  
+}
+
+.tabs-container{
+  
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  
+ 
+} 
+
+::placeholder{
+  color: firebrick !important;
+}
+
+
+
+.Gender_and_Race_tab{
+  align-items: flex-end;
+  padding-top: 12px;
+  padding-left: 29px;
+  display: flex;
+  border-bottom: 1PX solid #E7E7E7;
+  background: #EBEBEB;
+
+}
+
+.tab-head-inactive{
+  height: 40px;
+  font-size: 14px;
+  width: 200px;
+  padding: 1.5rem;
+  display: flex;
+  background: #ebebeb;
+  align-items: center;
+  color: #6666;
+  cursor: pointer;
+
+}
+
+.tab-head-active{
+  border-top: 1px solid #E7E7E7;
+  border-left: 1px solid #E7E7E7 ;
+  border-right:  1px solid #E7E7E7;
+  height: 40px;
+  background-color: #F2F2F2;
+  color: #2E2E2E;
+  position: relative;
+  border-bottom: 1px solid #F2F2F2;
+  bottom: -2px;
+}
+
+.tab-content{
+  padding:20px;
+  background-color: #F2F2F2;
+  display: flex;
+  align-items: center;
+
+  
+}
+
+
+
+.tab-content .white-boxes{
+  margin: 14px;
+  padding: 24px;
+  background-color: rgb(255, 255, 255);
+  width: 35%;
+  height: 12rem;
+  
+}
+
+span{ 
+  font-size: 12px;
+  color:grey;
+
+  
+}
+p{
+  font-size: 12px;
+}
+
+@media (max-width:780px){
+
+  .tab-content .white-boxes{
+    margin: 10px;
+    padding: 16px;
+  }
+
+  
+}
+
+
+
+@media (max-width:577px){
+  .tab-content .white-boxes{
+    margin: 8px;
+    padding:8px;
+  }
+
+  
+}
+
+@media(max-width:414px){
+  .tab-content{
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  }
+
+}
