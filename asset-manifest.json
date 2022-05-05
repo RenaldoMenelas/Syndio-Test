@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/http//:RenaldoMenelas.github.io/Syndio-Test/static/css/main.65d94050.css",
-    "main.js": "/http//:RenaldoMenelas.github.io/Syndio-Test/static/js/main.e1b55ba1.js",
-    "static/media/syndio-logo.svg": "/http//:RenaldoMenelas.github.io/Syndio-Test/static/media/syndio-logo.bf13d9e4f516e99d1ba5a22bc640c0d1.svg",
-    "index.html": "/http//:RenaldoMenelas.github.io/Syndio-Test/index.html",
-    "main.65d94050.css.map": "/http//:RenaldoMenelas.github.io/Syndio-Test/static/css/main.65d94050.css.map",
-    "main.e1b55ba1.js.map": "/http//:RenaldoMenelas.github.io/Syndio-Test/static/js/main.e1b55ba1.js.map"
+    "main.css": "/Syndio-Test/static/css/main.65d94050.css",
+    "main.js": "/Syndio-Test/static/js/main.d769831e.js",
+    "static/media/syndio-logo.svg": "/Syndio-Test/static/media/syndio-logo.bf13d9e4f516e99d1ba5a22bc640c0d1.svg",
+    "index.html": "/Syndio-Test/index.html",
+    "main.65d94050.css.map": "/Syndio-Test/static/css/main.65d94050.css.map",
+    "main.d769831e.js.map": "/Syndio-Test/static/js/main.d769831e.js.map"
   },
   "entrypoints": [
     "static/css/main.65d94050.css",
-    "static/js/main.e1b55ba1.js"
+    "static/js/main.d769831e.js"
   ]
 }
