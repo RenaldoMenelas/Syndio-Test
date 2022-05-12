@@ -5,6 +5,8 @@
 
 Completed Assignment given to me by Syndio Company.
 
+which displays stats of the wage gap differences between race and gender
+
 Assignment was created using react js
 
 implemented designs given to me 
